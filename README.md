@@ -1,21 +1,16 @@
 # [Convolution Neural Network for Dog and Cats](https://github.com/sam2702/Convolution-Neural-Network-Model)
 Model contains a basic recognizer using Keras Library with Tensorflow in backend.
-### 
+##
 Here is a Simple CNN that achieves over **84% Accuracy of Training set and 75% Accuuracy of Test set.**
 By adding _2nd Convolution layer_ we increase the **Accuracy of Training set over 85% and Test set 82%.**
 ## Steps
 
-1.**Convolution2D Layer**
-
-2.**MaxPooling2D Layer**
-
-3.**Flatten Layer**
-
-4.**Dense Layer**
-
-5.**Compiling the CNN**
-
-6.**Fitting the CNN to the images**
+- **Convolution2D Layer**
+- **MaxPooling2D Layer**
+- **Flatten Layer**
+- **Dense Layer**
+- **Compiling the CNN**
+- **Fitting the CNN to the images****
 ***
 ## Setups
 ```
