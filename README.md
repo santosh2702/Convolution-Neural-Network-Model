@@ -1,4 +1,4 @@
-# [Convolution Neural Network for Dog and Cats](https://github.com/sam2702/Convolution-Neural-Network-Model)
+# [Convolution Neural Network for Dog and Cats Recognition](https://github.com/sam2702/Convolution-Neural-Network-Model)
 Model contains a basic recognizer using Keras Library with Tensorflow in backend.
 ##
 Here is a Simple CNN that achieves over **84% Accuracy of Training set and 75% Accuuracy of Test set.**
