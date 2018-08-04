@@ -10,7 +10,7 @@ By adding _2nd Convolution layer_ we increase the **Accuracy of Training set ove
 - **Flatten Layer**
 - **Dense Layer**
 - **Compiling the CNN**
-- **Fitting the CNN to the images****
+- **Fitting the CNN to the images**
 ***
 ## Setups
 ```
