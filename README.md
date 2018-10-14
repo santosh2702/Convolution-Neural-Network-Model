@@ -13,6 +13,8 @@ By adding _2nd Convolution layer_ we increase the **Accuracy of Training set ove
 - **Fitting the CNN to the images**
 ***
 ## Setups
+![tensorflow_world](https://user-images.githubusercontent.com/29937202/46917329-7444ec80-cfe3-11e8-8e09-e213540f3c54.gif)
+
 ```
 Step 1 — Create New Conda Environment
 •conda create -n py35 python=3.5 anaconda
