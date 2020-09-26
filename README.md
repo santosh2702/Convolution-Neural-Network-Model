@@ -6,7 +6,7 @@ By adding _2nd Convolution layer_ we increase the **Accuracy of Training set ove
 ## Steps
 
 - **Convolution2D Layer**
-- **MaxPooling2D Layer**
+- **MaxPool2D Layer**
 - **Flatten Layer**
 - **Dense Layer**
 - **Compiling the CNN**
